@@ -2,7 +2,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jhrnandez&label=Profile%20views&color=0e75b6&style=flat" alt="jhrnandez" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jhrnandez" alt="jhrnandez" /></a> </p>
 
 - 🔭 Mi proyecto actual es un pequeño repositorio de componentes: [tailwind-components](https://github.com/jhrnandez/componentes)
 
